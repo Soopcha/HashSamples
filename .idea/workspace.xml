@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5214e38e-2b5b-4ea0-89aa-c6867b1f0c58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashSamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/course1/hash/SimpleHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/course1/hash/demo/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/course1/hash/demo/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/DrawUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/JTableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/SwingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/dummy/DefaultNotSupportedCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/dummy/DefaultNotSupportedMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/dummy/DefaultNotSupportedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/dummy/DefaultNotSupportedSortedMap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bkuswIPxejbmIgQYksPDp2j6hJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32216495" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.hash.demo.Program" />
+      <module name="HashSamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5214e38e-2b5b-4ea0-89aa-c6867b1f0c58" name="Default Changelist" comment="" />
+      <created>1589188622190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589188622190</updated>
+    </task>
+    <servers />
+  </component>
+</project>
